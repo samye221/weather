@@ -1,0 +1,39 @@
+.card {
+    margin: 5px;
+}
+
+.header {
+    margin-left: 5px;
+}
+
+.title {
+    font-size: 0.7rem;
+}
+
+.subTitle {
+    font-size: 0.5rem;
+}
+
+.cardContent {
+    font-size: 0.5rem;
+}
+
+.searchText {
+    font-size: 0.8rem;
+    margin-bottom: 30px;;
+}
+
+input {
+    border-bottom-color: black;
+    border-bottom-width: 1px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    width: 85%;
+}
+
+button {
+    border: none;
+    background: none;
+    cursor: pointer;
+}
